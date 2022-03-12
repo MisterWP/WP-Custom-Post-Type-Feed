@@ -1,2 +1,2 @@
 # WP-Custom-Post-Type-Feed
-Create RSS Feed for WordPress Custom Post Types
+Create RSS Feed for WordPress Pages & Custom Post Types
